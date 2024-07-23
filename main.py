@@ -19,7 +19,7 @@ def isnub(number, isnumber):
 def garv():
    V = random.randint(10,50)
    F = random.randint(V,51)
-   print(F , "is on this pos)
+   print(F , " is on this pos)
    while r_number != F:
       r_number = random.randint(1, 100)
    
