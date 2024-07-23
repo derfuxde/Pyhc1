@@ -11,3 +11,7 @@ def generate_random_number():
 def isnub(number, isnumber):
     if number > isnumber:
         print("Number is true" , number)
+    else:
+        print("Number is false" , number, "should be " , isnumber)
+    
+    
